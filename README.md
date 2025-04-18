@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
 </div>
 
-<h4 align="center"> BackEnd</h4>
+<h4 align="center"> Backend</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/flask-F3F3F3.svg?style=for-the-badge&logo=flask&logoColor=black" />&nbsp
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
 </div>
 
-<h4 align="center"> FrontEnd</h4>
+<h4 align="center"> Frontend</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
