@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="" />
+  <!-- <img src="" /> -->
 </div>
 
 <!--내용 부분-->
@@ -59,10 +59,9 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@jxxnging">
-    <img src="https://img.shields.io/badge/velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:jxxngin43@gmail.com">
-    <img
-      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
