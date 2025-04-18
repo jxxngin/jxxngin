@@ -27,7 +27,7 @@
 
 <h4 align="center"> FrontEnd</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/angular-F3F3F3?style=for-the-badge&logo=angular&logoColor=0F0F11" />&nbsp
+  <img src="https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
 </div>
 
